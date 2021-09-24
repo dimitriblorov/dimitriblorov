@@ -1,6 +1,6 @@
 Hi 👋, I'm Dimitri Blorov,
 
-- I am a front-end developer
+I am a front-end developer
 
 <div> 
   <a href="https://www.linkedin.com/in/dimitri-blorov-69627694" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
