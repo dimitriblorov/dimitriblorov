@@ -1,4 +1,4 @@
-Hi, my name is Dimitri Blorov and i'm 28 years old. 
+Hi, my name is Dimitri Blorov and i'm 28 years old.<br/>
 I'm currently studying and learning PHP.
 
 
