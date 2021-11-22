@@ -1,4 +1,5 @@
-Hi, my name is Dimitri Blorov and i'm 28 years old. I'm currently studying and learning PHP.
+Hi, my name is Dimitri Blorov and i'm 28 years old. 
+I'm currently studying and learning PHP.
 
 
 
@@ -23,5 +24,3 @@ Hi, my name is Dimitri Blorov and i'm 28 years old. I'm currently studying and l
 </div>
 
   
-  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
