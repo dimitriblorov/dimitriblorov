@@ -1,11 +1,4 @@
-Hi, my name is Dimitri Blorov and i'm 29 years old.<br/>
-I'm currently studying and learning PHP.
 
-
-
-<div> 
-  <a href="https://www.linkedin.com/in/dimitri-blorov-69627694" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
 
 ##
  
